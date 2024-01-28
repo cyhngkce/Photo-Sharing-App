@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784985146769",
+    "project_id": "fir-fotografuygulamasi",
+    "storage_bucket": "fir-fotografuygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784985146769:android:2624c6c07eca7e8eabc630",
+        "android_client_info": {
+          "package_name": "com.cyhngkce.fotografpaylasmauygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0s4cJv0FeNlz8pgxJ7QD6RULYwJLZguU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
